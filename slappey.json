@@ -1,0 +1,7 @@
+{
+  "name": "PandaBot",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "",
+  "prefix": "."
+}
